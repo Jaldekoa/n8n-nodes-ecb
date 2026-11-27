@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-ecb",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"description": "n8n community node to get statistical data from the European Central Bank (ECB) Data Portal API",
 	"license": "MIT",
 	"homepage": "https://github.com/Jaldekoa/n8n-nodes-ecb",
